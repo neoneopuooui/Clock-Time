@@ -1,0 +1,1 @@
+copy /b love.nro+game.love %~1.nro
